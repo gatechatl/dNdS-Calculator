@@ -1,0 +1,338 @@
+ALIGN calculates a global alignment of two sequences
+ version 2.2u
+Please cite: Myers and Miller, CABIOS (1989) 4:11-17
+ first sequence file name:  second sequence file name: QUERY                                              1752 nt vs.
+TARGET                                             1546 nt
+ using matrix file: DNA, gap open/ext: -12/-4
+   1.0% identity in 3249 nt overlap;		 Global score: 38
+
+               10        20        30        40        50        60
+QUERY  AGTGCGGAGGGTTTTGCCCTTCGTAAAGATGGCCGCGGAGGCTTTTGGAGCCAACTGGGA
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+               70        80        90       100       110       120
+QUERY  GCGCAGTACGCGTTTTCTGGAGCATGGGCAGAGGAGACAGGAACAAGCGTAGCATCCGTG
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              130       140       150       160       170       180
+QUERY  AGCACCGATTGGCTGAAGCGAGCACCCCGGGAGCTGACTGGCTCCGCCATTCGCGGGAAG
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              190       200       210       220       230       240
+QUERY  GCGTTTGTGGTGCCAGAGAAAAGTAGCCAGAGCGGCGCAGTGGCGGCCGCGTTCTGTGGT
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              250       260       270       280       290       300
+QUERY  TTTCCGCTATTCCCCCAGACCCGCACCTTCTCGGCCTCTTTGCGGAGAATCGTGACCAAG
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              310       320       330       340       350       360
+QUERY  ATGTGGAACAGTGGATTCGAAAGCTATGGCAGCTCCTCATACGGGGGAGCCGGCGGCTAC
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              370       380       390       400       410       420
+QUERY  ACGCAGTCCCCGGGGGGCTTTGGATCGCCCGCACCTTCTCAAGCCGAAAAGAAATCAAGA
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              430       440       450       460       470       480
+QUERY  GCCCGAGCCCAGCACATTGTGCCCTGTACTATATCTCAGCTGCTTTCTGCCACTTTGGTT
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              490       500       510       520       530       540
+QUERY  GATGAAGTGTTCAGAATTGGGAATGTTGAGATTTCACAGGTCACTATTGTGGGGATCATC
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              550       560       570       580       590       600
+QUERY  AGACATGCAGAGAAGGCTCCAACCAACATTGTTTACAAAATAGATGACATGACAGCTGCA
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              610       620       630       640       650       660
+QUERY  CCCATGGACGTTCGCCAGTGGGTTGACACAGATGACACCAGCAGTGAAAACACTGTGGTT
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              670       680       690       700       710       720
+QUERY  CCTCCAGAAACATATGTGAAAGTGGCAGGCCACCTGAGATCTTTTCAGAACAAAAAGAGC
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              730       740       750       760       770       780
+QUERY  CTGGTAGCCTTTAAGATCATGCCCCTGGAGGATATGAATGAGTTCACCACACATATTCTG
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              790       800       810       820       830       840
+QUERY  GAAGTGATCAATGCACACATGGTACTAAGCAAAGCCAACAGCCAGCCCTCAGCAGGGAGA
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              850       860       870       880       890       900
+QUERY  GCACCTATCAGCAATCCAGGAATGAGTGAAGCAGGGAACTTTGGTGGGAATAGCTTCATG
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              910       920       930       940       950       960
+QUERY  CCAGCAAATGGCCTCACTGTGGCCCAAAACCAGGTGTTGAATTTGATTAAGGCTTGTCCA
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+              970       980       990      1000      1010      1020
+QUERY  AGACCTGAAGGGTTGAACTTTCAGGATCTCAAGAACCAGCTGAAACACATGTCTGTATCC
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+             1030      1040      1050      1060      1070      1080
+QUERY  TCAATCAAGCAAGCTGTGGATTTTCTGAGCAATGAGGGGCACATCTATTCTACTGTGGAT
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+             1090      1100      1110      1120      1130      1140
+QUERY  GATGACCATTTTAAATCCACAGATGCAGAATAACTGGATCTAACTGGGTACCTGAGATAT
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+             1150      1160      1170      1180      1190      1200
+QUERY  TTTACAGCTGGACCTAGTTTCACAATCTGTTGTCTCCAGCTCTGCATATGTCTGGCCAGG
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+             1210      1220      1230      1240      1250      1260
+QUERY  GGGCTTCTAGGAAGTAGGTTTCATCTATCAAATGTCTCCTCTGACTTCCTTTTGAAACTT
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+             1270      1280      1290      1300      1310      1320
+QUERY  ACTGCTCTTCTGTTTTATTTTGTTTTGTTTGAAGCTCAGAGGGAGATGGGCAATTGACAG
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+             1330      1340      1350      1360      1370      1380
+QUERY  GGATGCAATCCAGGGTGGGATTTCTTGAGGAAGTTACAAATAAGCTTGTTACAACATCAA
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+             1390      1400      1410      1420      1430      1440
+QUERY  GATAGATGGAATTGGAAGGATGCTACCAGGAGAGTACTTACATAGTGCTCAGGAGTTTCT
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+             1450      1460      1470      1480      1490      1500
+QUERY  CTTCTTAAAATGTTTACTGCTGAAAGATGAGCAGGACCAGGGCGTTATAGGCAGAGCCCT
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+             1510      1520      1530      1540      1550      1560
+QUERY  AGCCGAGAAACCTGCTGGCCTCTGCCTGTTTTCATTTCCCACTTTGGTTGTGTGGCATTA
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+             1570      1580      1590      1600      1610      1620
+QUERY  CTTTCAGAATTGCACTTTCCTGCTTGTCATGACTTTTTGACACACTTGCCATGACGTGTG
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+             1630      1640      1650      1660      1670      1680
+QUERY  TTTCTGTGAACATGAAGTTCTGCGGTAGTGCCTCCAGGGGCAGAGGAAAAGAAGAAGTGT
+                                                                   
+TARGET ------------------------------------------------------------
+                                                                   
+
+             1690      1700      1710      1720       1730         
+QUERY  TACTGCATTTTGTACAAAATAAATACAGTCATATGTTTAATAAA-ACAGTTCTATTGTAG
+                          :::  :::    ::: :::: :::  :::   :   :::: 
+TARGET -------------------TAATAACATAACTAT-TTTATTAACCACA---CGGATGTAC
+                                  10         20           30       
+
+    1740       1750                                                
+QUERY  TAACTTG-TAAAAA----------------------------------------------
+       : ::::  :: :::                                              
+TARGET TCACTTTATACAAAACACAGTAACATTTCTTCCTCTCCTTTGACACATGAGGCCACCACT
+        40        50        60        70        80        90       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET CCAGAACCTCATGTTTACAAAAATGCTTTTGGCATCAGCCATGACAAGTTGAGGGAAAGT
+       100       110       120       130       140       150       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET GCAATTCTGAAAGTAACACCACATAACCAAAACGGGGAACGAAACCAGCAGAGGTTAGCA
+       160       170       180       190       200       210       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET CATTTCTTGGGTGGCTCTCTGCTGACAGGCCCTAGTTGTACTCATCTTCTCTCAACAGAA
+       220       230       240       250       260       270       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET AATATCTTAGGAATAGAAACTCCTGAGAATTATGTAAGTAATACTGCCCAACTCTCTTGG
+       280       290       300       310       320       330       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET TAGCATCCTTCTTCCACTTCCATCTCTCCTGATGTTACTATAACTAGTTAATTTGTAACT
+       340       350       360       370       380       390       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET TCTTTAAGAAATACCACTCTGGATCACCCCGTCAGCTGGCCATCTCCCTCTGAACATCAA
+       400       410       420       430       440       450       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET AAAAACAGAAGAGAATAAGTTTCATAAGGCGGTCAACTGAGACCTTTTACAGATGAAACT
+       460       470       480       490       500       510       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET TACTTTCTAGAAGTCAACTGGTCAAACGTAGGCACAGCTGGACAAAACAGATCATGAAAA
+       520       530       540       550       560       570       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET TAGGTCCAGCTGGAAAACATGTTGGGTGCTCAATTAGGTCCAGTTATTCTGCGTCTGTGG
+       580       590       600       610       620       630       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET ATTTAAAATGATCGTCATCCACAGTAGAATAGATGTGTCCCTCGTTGCTTAGAAAATCCA
+       640       650       660       670       680       690       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET CAGCTTGCTTGATTGAGGCTATAGTCATGTGCTGAAGCTGGTTCTTGAGATCATGAAAGT
+       700       710       720       730       740       750       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET TCAATCCTTCAGGTCTTGGGCAAGCCTTAATCAAATTCAGCACCTGGTTTTGGGCCACAG
+       760       770       780       790       800       810       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET TGAGACCATTTGCTGGTGTGAAGCTACTCCCACCAAAGTTCCCTGCTTCAGCCATTCCTG
+       820       830       840       850       860       870       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET GATTGCTGATGGGTGCTCTCCCTGCTGAGGGCTGGCTGTTAGCTCTGGCCAGCATCATAT
+       880       890       900       910       920       930       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET GTGCGTTCACCACTTCCAGGATGTGTGCGGTGAACTCATTCATATCATCCAGGGGCATGA
+       940       950       960       970       980       990       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET TCCTAAAGGCCACCAGGCTTTTTTTGTTCTGGAAAGATCTCAGATGACCAGCCACTTTCA
+      1000      1010      1020      1030      1040      1050       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET CGTATGTTTCCGGAGGAACCACAGTGTTTTCACCACTGGCATCATCCGTGTCAACCCACT
+      1060      1070      1080      1090      1100      1110       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET GGCGAACATCCATAGGTGCAGCTGTCATGTCGTCTATTTTGTAAACAATGTTGGTTGGAG
+      1120      1130      1140      1150      1160      1170       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET CCTTCTCTGCATGTCTGATTATCCCGATGATGACAACCTGTGAAATCTCAACATTCCCAA
+      1180      1190      1200      1210      1220      1230       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET TTCTGAACACTTCATCGACCAGAGTGGCAGAAAGCAGCTGAGATATGGTACAGGGCACAA
+      1240      1250      1260      1270      1280      1290       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET CGTGCTGGGCTCGGGCTCTTGATTTCCTTTCAGCCTGAGAAGGTGTCGGCGATCCAAAGC
+      1300      1310      1320      1330      1340      1350       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET CGCCCGGAGACTGGGTGTAGCCACCGGCTCCCCCGAACGTGGAGCTGCCATAGCTTTCAT
+      1360      1370      1380      1390      1400      1410       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET ATCCACTATTCCACATCATGGTCACGATGCTCTCAGGAAAGACGCGCTGGGAGTTCGAGG
+      1420      1430      1440      1450      1460      1470       
+
+                                                                   
+QUERY  ------------------------------------------------------------
+                                                                   
+TARGET CGGTAGTGTTCGCTCAGCACTTAAGAACCTTGTTGCTGTCGCAGAGATCTGTGTACTTTT
+      1480      1490      1500      1510      1520      1530       
+
+                
+QUERY  ---------
+                
+TARGET CGCTGGCGC
+      1540      
+
